@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
-  --primary-color: #a855f7;
-  --primary-color-dark: #9333ea;
+  --primary-color: #6d7afa;
+  --primary-color-dark: #6573fa;
   --secondary-color: #ca8a04;
   --text-dark: #1f2937;
   --text-light: #6b7280;
@@ -57,11 +57,11 @@ nav {
 nav .logo a {
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--primary-color);
+  color: #7d89fa;
   transition: 0.3s;
 }
 nav .logo a:hover {
-  color: var(--primary-color-dark);
+  color: #7d89fa;
 }
 
 nav .checkbox {
@@ -101,7 +101,7 @@ ul li a:hover {
 }
 
 .section {
-  background-color: var(--extra-light);
+  background-color: #8d97fb;
 }
 
 .section__container {
